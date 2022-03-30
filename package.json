@@ -1,0 +1,15 @@
+{
+  "name": "zutom-extract",
+  "version": "1.0.0",
+  "description": "recuperer les mots",
+  "main": "index.js",
+  "scripts": {
+    "getword": "node searchCorrectWordZutom.js",
+    "getImage": "node getImageZutom.js"
+  },
+  "author": "fabienbouns",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.5.1"
+  }
+}
